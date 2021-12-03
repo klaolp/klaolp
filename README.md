@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front-end and back-end
 - 📫 Como me contatar: kelvinlucas@outlook.com
 - 😄 Pronouns: ele/dele
--->
+<br>
 <div>
   <a href="https://github.com/klaolp">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=klaolp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
