@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kelvin Lucas.
 
-- 🌱 I’m currently learning front-end and back-end
+- 🌱 I’m currently learning back-end
 - 📫 Como me contatar: kelvinlucas@outlook.com
 - 😄 Pronouns: ele/dele
 <br>
