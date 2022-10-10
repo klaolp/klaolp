@@ -1,4 +1,4 @@
-### Olá! Eu sou o Kelvin Lucas.
+### Olá! Eu me chamo Kelvin Lucas.
 
 - 🌱 I’m currently learning back-end
 - 📫 Como me contatar: kelvinlucas@outlook.com
