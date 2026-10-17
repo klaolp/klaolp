@@ -1,15 +1,16 @@
-<!-- Banner -->
-<div align="center">
+ <div align="center">
 
 # 👋 Olá, eu sou Kelvin Lucas!
 
 ### 💻 Analista de Infraestrutura de TI | Suporte N2 | Desenvolvedor
 
-Apaixonado por tecnologia, infraestrutura, automação e desenvolvimento de software.
+**Infraestrutura • Redes • Segurança • Desenvolvimento de Software**
 
-[![GitHub](https://img.shields.io/badge/GitHub-klaolp-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klaolp)
-[![Portfólio](https://img.shields.io/badge/Portfólio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://klaolp.github.io/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:kelvinlucas@outlook.com)
+Profissional de Tecnologia da Informação, apaixonado por tecnologia, resolução de problemas e desenvolvimento de soluções.
+
+[![Portfolio](https://img.shields.io/badge/Portfólio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://klaolp.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klaolp)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvinlucas@outlook.com)
 
 </div>
 
@@ -17,16 +18,16 @@ Apaixonado por tecnologia, infraestrutura, automação e desenvolvimento de soft
 
 ## 👨‍💻 Sobre mim
 
-Sou profissional de Tecnologia da Informação, atuando como **Analista de Infraestrutura e Suporte N2**, com experiência em administração de ambientes corporativos, redes, servidores, segurança e suporte técnico.
+Sou **Analista de Infraestrutura e Suporte N2**, com experiência na administração e manutenção de ambientes corporativos, servidores, redes, segurança da informação e suporte técnico.
 
-Além da infraestrutura, tenho grande interesse pelo desenvolvimento de software, especialmente na criação de aplicações web e soluções que facilitem processos e rotinas.
+Paralelamente, desenvolvo minhas habilidades em programação, criando aplicações web e explorando tecnologias que conectam **infraestrutura e desenvolvimento**.
 
-- 🔭 Atualmente trabalhando com infraestrutura e suporte corporativo.
-- 🌱 Estudando React, TypeScript, C# e ASP.NET Core.
-- 🐧 Explorando Linux, Docker e automação.
-- 🎓 Cursando Técnico em Informática para Internet no IFSULDEMINAS.
-- 🚀 Desenvolvendo projetos pessoais e aprimorando minhas habilidades.
-- 📍 Cuiabá - MT, Brasil.
+- 💼 Atuação profissional em infraestrutura, redes e suporte N2.
+- 🎓 Estudante de Técnico em Informática para Internet no IFSULDEMINAS.
+- 🌱 Aprimorando conhecimentos em **React, TypeScript, C# e ASP.NET Core**.
+- 🐧 Interesse em Linux, Docker, automação e DevOps.
+- 🚀 Desenvolvendo projetos pessoais e aplicações web.
+- 📍 Cuiabá – MT, Brasil.
 
 ---
 
@@ -41,8 +42,8 @@ Além da infraestrutura, tenho grande interesse pelo desenvolvimento de software
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </div>
 
@@ -50,11 +51,11 @@ Além da infraestrutura, tenho grande interesse pelo desenvolvimento de software
 
 <div align="center">
 
-![Windows](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge)
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 
 </div>
@@ -79,32 +80,28 @@ Além da infraestrutura, tenho grande interesse pelo desenvolvimento de software
 
 ### 🌐 Portfólio Pessoal
 
-Meu portfólio profissional, desenvolvido para apresentar minhas habilidades, experiências e projetos.
+Site desenvolvido para apresentar minha trajetória profissional, habilidades e projetos.
 
 **Tecnologias:** HTML, CSS e JavaScript.
 
-🔗 [Acessar Portfólio](https://klaolp.github.io/)
+🔗 [Acessar portfólio](https://klaolp.github.io/)
 
 ### 🏢 Portal Corporativo
 
-Projeto de aplicação web para gerenciamento e visualização de comunicados corporativos.
+Aplicação web para centralização e gerenciamento de comunicados internos.
 
-**Tecnologias:**
-- React e TypeScript
-- ASP.NET Core / C#
-- PostgreSQL
-- Docker
+**Tecnologias:** React, TypeScript, ASP.NET Core, PostgreSQL e Docker.
 
-**Funcionalidades em desenvolvimento:**
-- Mural de comunicados
-- Painel administrativo
-- Visualização individual de comunicados
-- Integração entre front-end e API
-- Autenticação corporativa (planejada)
+**Funcionalidades:**
+- Mural de comunicados.
+- Painel administrativo.
+- Visualização individual de publicações.
+- Integração entre front-end e API.
+- Autenticação corporativa planejada.
 
-### 🧪 Estudos e Laboratórios
+### 📚 Estudos e Laboratórios
 
-Projetos e exercícios relacionados a desenvolvimento web, programação, infraestrutura e automação.
+Repositórios de estudos e experimentos envolvendo programação, desenvolvimento web e infraestrutura.
 
 🔗 [Explorar meus repositórios](https://github.com/klaolp?tab=repositories)
 
@@ -114,35 +111,31 @@ Projetos e exercícios relacionados a desenvolvimento web, programação, infrae
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klaolp&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=klaolp&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klaolp&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaolp&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=klaolp&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
 </div>
 
 ---
 
-## 📈 Atividade no GitHub
+## 📫 Vamos nos conectar?
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=klaolp&theme=tokyonight&hide_border=true&locale=pt_BR)
+Estou aberto a trocar conhecimentos, colaborar em projetos e conhecer oportunidades profissionais.
 
-</div>
+📧 **E-mail:** [kelvinlucas@outlook.com](mailto:kelvinlucas@outlook.com)
 
----
+🌐 **Portfólio:** [klaolp.github.io](https://klaolp.github.io/)
 
-## 📫 Entre em Contato
-
-<div align="center">
-
-Estou sempre aberto a trocar conhecimentos, colaborar em projetos e conhecer novas oportunidades profissionais.
-
-📧 **E-mail:** kelvinlucas@outlook.com
-
-🌐 **Portfólio:** https://klaolp.github.io/
-
-💻 **GitHub:** https://github.com/klaolp
+💻 **GitHub:** [github.com/klaolp](https://github.com/klaolp)
 
 </div>
 
@@ -150,6 +143,8 @@ Estou sempre aberto a trocar conhecimentos, colaborar em projetos e conhecer nov
 
 <div align="center">
 
-### ⚡ "Sempre aprendendo, evoluindo e transformando conhecimento em soluções."
+**"Sempre aprendendo, evoluindo e transformando conhecimento em soluções."**
+
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=klaolp&color=38BDF8&style=flat-square)
 
 </div>
