@@ -152,6 +152,4 @@ Estou sempre aberto a trocar conhecimentos, colaborar em projetos e conhecer nov
 
 ### ⚡ "Sempre aprendendo, evoluindo e transformando conhecimento em soluções."
 
-![Profile Views](https://komarev.com/ghpvc/?username=klaolp&color=38BDF8&style=flat-square)
-
 </div>
