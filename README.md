@@ -157,8 +157,4 @@ Aberto a trocar conhecimentos, colaborar em projetos e conhecer novas oportunida
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=klaolp&amp;label=Visualizações&amp;color=0ea5e9&amp;style=flat" alt="Contador de visualizações">
-</p>
-
 </div>
