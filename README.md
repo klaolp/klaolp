@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="./banner-github.png" alt="Kelvin Lucas - Infraestrutura de TI e Desenvolvimento" width="100%">
+</div>
+
  <div align="center">
 
 # 👋 Olá, eu sou Kelvin Lucas!
