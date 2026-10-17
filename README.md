@@ -1,4 +1,3 @@
-```markdown
 <!-- Banner -->
 <div align="center">
 
@@ -156,4 +155,3 @@ Estou sempre aberto a trocar conhecimentos, colaborar em projetos e conhecer nov
 ![Profile Views](https://komarev.com/ghpvc/?username=klaolp&color=38BDF8&style=flat-square)
 
 </div>
-```
